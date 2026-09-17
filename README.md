@@ -16,9 +16,8 @@ This repo is my final project for the **AI Product Management Certification**. E
 - **System prompt** — [`01-prompting/system-prompt.md`](01-prompting/system-prompt.md)
 - **Lovable prototype** — _(share URL)_
 
-### M2 · Strategy
-- **Decision matrix** — [`02-strategy/decision-matrix.md`](02-strategy/decision-matrix.md)
-- **AI Strategy one-pager** — [`02-strategy/strategy-one-pager.md`](02-strategy/strategy-one-pager.md)
+### M2 · Prototype
+- **Prototype** — [`02-prototype/prototype.md`](02-prototype/prototype.md)
 
 ### M3 · RAG / AI PRD
 - **AI PRD** — [`03-rag-prd/prd.md`](03-rag-prd/prd.md)
@@ -70,11 +69,9 @@ _Compliance · Safety · Reliability · Reputation._
 juno-pm/
 ├── README.md                          ← this dashboard + pitch
 ├── 01-prompting/
-│   ├── system-prompt.md               ← M1: Juno's system prompt
-│   └── lovable-prototype.md           ← M1: prototype link + debrief
-├── 02-strategy/
-│   ├── decision-matrix.md             ← M2: build / buy / fine-tune / partner call
-│   └── strategy-one-pager.md          ← M2: AI strategy one-pager
+│   └── skill-file.md                  ← M1: Juno's skill file (Role/Task/Constraints/Format)
+├── 02-prototype/
+│   └── prototype.md                   ← M2: prototype link + debrief
 ├── 03-rag-prd/
 │   └── prd.md                         ← M3: AI PRD with retrieval requirements
 ├── 04-ai-ux/
