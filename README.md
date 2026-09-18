@@ -19,8 +19,8 @@ This repo is my final project for the **AI Product Management Certification**. E
 ### M2 · Prototype
 - **Prototype** — [`02-prototype/prototype.md`](02-prototype/prototype.md)
 
-### M3 · RAG / AI PRD
-- **AI PRD** — [`03-rag-prd/prd.md`](03-rag-prd/prd.md)
+### M3 · Harness / AI PRD
+- **AI PRD** — [`03-harness-prd/prd.md`](03-harness-prd/prd.md)
 
 ### M4 · AI-Native UX
 - **AI user flow** — [`04-ai-ux/user-flow.md`](04-ai-ux/user-flow.md)
@@ -72,8 +72,8 @@ juno-pm/
 │   └── skill-file.md                  ← M1: Juno's skill file (Role/Task/Constraints/Format)
 ├── 02-prototype/
 │   └── prototype.md                   ← M2: prototype link + debrief
-├── 03-rag-prd/
-│   └── prd.md                         ← M3: AI PRD with retrieval requirements
+├── 03-harness-prd/
+│   └── prd.md                         ← M3: AI PRD specifying all six harness surfaces
 ├── 04-ai-ux/
 │   ├── user-flow.md                   ← M4: AI-native user flow
 │   └── trust-gaps.md                  ← M4: trust-gap mitigations
