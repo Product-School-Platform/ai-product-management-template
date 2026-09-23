@@ -1,6 +1,6 @@
 # Eval Stack · Juno
 
-> Module 6 · Evals & Guardrails. Juno's layered evaluation stack, designed with the **M6 · Eval Stack Designer**. Paste the tool's markdown over this file.
+> Module 5 · Evals & Guardrails. Juno's layered evaluation stack, designed with the **M5 · Eval Stack Designer**. Paste the tool's markdown over this file.
 
 ## What "good" means
 
