@@ -22,17 +22,12 @@ This repo is my final project for the **AI Product Management Certification**. E
 ### M3 · Harness / AI PRD
 - **AI PRD** — [`03-harness-prd/prd.md`](03-harness-prd/prd.md)
 
-### M4 · AI-Native UX
-- **AI user flow** — [`04-ai-ux/user-flow.md`](04-ai-ux/user-flow.md)
-- **Trust-gap mitigations** — [`04-ai-ux/trust-gaps.md`](04-ai-ux/trust-gaps.md)
+### M4 · Deploy Agentic Systems and Workflows
+- **Agent Control Panel** — [`04-agentic-workflows/agent-control-panel.md`](04-agentic-workflows/agent-control-panel.md)
 
-### M5 · Agentic Workflows
-- **Agent Workflow Spec (AWSpec)** — [`05-agentic-workflows/awspec.md`](05-agentic-workflows/awspec.md)
-- **Agent Control Panel** — [`05-agentic-workflows/agent-control-panel.md`](05-agentic-workflows/agent-control-panel.md)
-
-### M6 · Evals & Guardrails
-- **Eval stack** — [`06-evals/eval-stack.md`](06-evals/eval-stack.md)
-- **Human evaluation rubric** — [`06-evals/human-rubric.md`](06-evals/human-rubric.md)
+### M5 · Evals & Guardrails
+- **Eval stack** — [`05-evals/eval-stack.md`](05-evals/eval-stack.md)
+- **Human evaluation rubric** — [`05-evals/human-rubric.md`](05-evals/human-rubric.md)
 
 ---
 
@@ -74,15 +69,11 @@ juno-pm/
 │   └── prototype.md                   ← M2: prototype link + debrief
 ├── 03-harness-prd/
 │   └── prd.md                         ← M3: AI PRD specifying all six harness surfaces
-├── 04-ai-ux/
-│   ├── user-flow.md                   ← M4: AI-native user flow
-│   └── trust-gaps.md                  ← M4: trust-gap mitigations
-├── 05-agentic-workflows/
-│   ├── awspec.md                      ← M5: Agent Workflow Spec
-│   └── agent-control-panel.md         ← M5: Agent Control Panel
-└── 06-evals/
-    ├── eval-stack.md                  ← M6: layered eval stack
-    └── human-rubric.md                ← M6: human evaluation rubric
+├── 04-agentic-workflows/
+│   └── agent-control-panel.md         ← M4: Agent Control Panel
+└── 05-evals/
+    ├── eval-stack.md                  ← M5: layered eval stack
+    └── human-rubric.md                ← M5: human evaluation rubric
 ```
 
 ---

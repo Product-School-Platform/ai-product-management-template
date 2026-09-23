@@ -1,6 +1,6 @@
 # Human Evaluation Rubric · Juno
 
-> Module 6 · Evals & Guardrails. The rubric human graders use to score Juno, from the **M6 · Human Evaluation Rubric**. Paste the tool's markdown over this file.
+> Module 5 · Evals & Guardrails. The rubric human graders use to score Juno, from the **M5 · Human Evaluation Rubric**. Paste the tool's markdown over this file.
 
 ## What graders score
 
