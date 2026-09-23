@@ -61,7 +61,7 @@ _____
 
 ## Eval plan
 
-_Stub. Module 6 fills this in: golden set, pass thresholds, regression cadence._
+_Stub. Module 5 fills this in: the human eval rubric in `05-evals/human-rubric.md`, with its pass bar._
 
 ## Out of scope
 
