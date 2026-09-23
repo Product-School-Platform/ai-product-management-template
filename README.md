@@ -4,9 +4,9 @@
 
 _Your name · cohort · date_
 
-This repo is my final project for the **AI Product Management Certification**. Each module's artifact lives in its own folder; this README is the dashboard and the pitch.
+This repo is my final project for the **AI Product Management Certification**. Each module's artifact lives in its own folder.
 
-**How to use this template:** click **Use this template → Create a new repository**, name it `juno-pm`, and commit one module's artifact per session. Assemble this dashboard with the **Final Project Deliverables Builder** (paste its `README.md` output over this file).
+**How to use this template:** click **Use this template → Create a new repository**, name it `juno-pm`, and commit one module's artifact per session. In Module 6, the **Final Project Deliverables Builder** reads these files and turns them into your final presentation.
 
 ---
 
@@ -27,32 +27,8 @@ This repo is my final project for the **AI Product Management Certification**. E
 ### M5 · Evals & Guardrails
 - **Human eval rubric**, [`05-evals/human-rubric.md`](05-evals/human-rubric.md). The lab, in class.
 
----
-
-## PM Execution Plan
-
-### Where Juno is today
-_____
-
-### What ships next (next 2 sprints)
-_____
-
-### What I watch (dashboards)
-_____
-
-### Red lines (what blocks shipping: numbers, not feelings)
-_____
-
-### Governance
-_Compliance · Safety · Reliability · Reputation._
-
----
-
-## Build Insights
-
-- **Friction point.** _____
-- **Key learning.** _____
-- **Aha moment.** _____
+### M6 · Prove AI Impact with Ongoing Metrics
+- **Final presentation**, [`final-presentation.html`](final-presentation.html). Built in the **Final Project Deliverables Builder** from the files above, then committed here. Submit this repo's URL and the presentation (its GitHub Pages link or the file) on the Learning Platform.
 
 ---
 
@@ -60,7 +36,8 @@ _Compliance · Safety · Reliability · Reputation._
 
 ```
 juno-pm/
-├── README.md                          ← this dashboard + pitch
+├── README.md                          ← this overview
+├── final-presentation.html            ← M6: final presentation, from the builder
 ├── 01-prompting/
 │   └── skill-file.md                  ← M1: Juno's skill file (Role/Task/Constraints/Format)
 ├── 02-prototype/
