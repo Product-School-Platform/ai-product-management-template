@@ -12,23 +12,23 @@ This repo is my final project for the **AI Product Management Certification**. E
 
 ## Module artifacts
 
-### M1 · Prompting
+### M1 · Save a Prompt as a Reusable Skill
 - **Skill file**, [`01-prompting/skill-file.md`](01-prompting/skill-file.md)
 
-### M2 · Prototype
+### M2 · Prototype the Idea Worth Building
 - **Prototype**, [`02-prototype/prototype.md`](02-prototype/prototype.md). Link, what it demonstrates, and debrief.
 
-### M3 · Harness / AI PRD
+### M3 · Write an AI PRD Engineers Can Build from
 - **AI PRD**, [`03-harness-prd/prd.md`](03-harness-prd/prd.md)
 
-### M4 · Deploy Agentic Systems and Workflows
+### M4 · Decide When an Agent Acts on Its Own
 - **Agent Control Panel**, [`04-agentic-workflows/agent-control-panel.md`](04-agentic-workflows/agent-control-panel.md). The lab, in class.
 
-### M5 · Evals & Guardrails
+### M5 · Write the Rubric That Scores AI Output
 - **Human eval rubric**, [`05-evals/human-rubric.md`](05-evals/human-rubric.md). The lab, in class.
 
-### M6 · Prove AI Impact with Ongoing Metrics
-- **Final presentation**, [`final-presentation.html`](final-presentation.html). Built in the **Final Project Deliverables Builder** from the files above, then committed here. Submit this repo's URL and the presentation (its GitHub Pages link or the file) on the Learning Platform.
+### M6 · Prove the AI Feature Is Worth Keeping
+- **Final presentation**, `final-presentation.html`. Built in the **Final Project Deliverables Builder** from the files above, then committed here. Submit this repo's URL and the presentation (its GitHub Pages link or the file) on the learning platform.
 
 ---
 
