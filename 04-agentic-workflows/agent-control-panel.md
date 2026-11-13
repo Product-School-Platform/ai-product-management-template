@@ -1,6 +1,6 @@
 # Agent Control Panel · Juno
 
-> Module 4 · Deploy Agentic Systems and Workflows. Spec'd with the **M4 - Agent Control Panel** tool. Paste the tool's markdown over this file.
+> Module 4 · Decide When an Agent Acts on Its Own. Spec'd with the **M4 - Agent Control Panel** tool. Paste the tool's markdown over this file.
 
 ## What Juno Is Doing
 

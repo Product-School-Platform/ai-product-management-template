@@ -1,6 +1,6 @@
 # Skill File · Juno
 
-> Module 1 · Prompting. Juno's skill file, authored with the **M1 · Skill File Builder**. Fill the tool, then paste its markdown over this file.
+> Module 1 · Save a Prompt as a Reusable Skill. Juno's skill file, authored with the **M1 · Skill File Builder**. Fill the tool, then paste its markdown over this file.
 
 ## Role
 

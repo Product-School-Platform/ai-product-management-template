@@ -1,6 +1,6 @@
 # Human Evaluation Rubric · Juno
 
-> Module 5 · Evals & Guardrails. The rubric you and any other reviewer use to score one piece of Juno, from the **M5 · Human Evaluation Rubric** tool. Paste the tool's markdown over this file.
+> Module 5 · Write the Rubric That Scores AI Output. The rubric you and any other reviewer use to score one piece of Juno, from the **M5 · Human Evaluation Rubric** tool. Paste the tool's markdown over this file.
 
 ## What graders score
 
